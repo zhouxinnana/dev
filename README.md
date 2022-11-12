@@ -18,4 +18,4 @@ It’s a quick way to edit and navigate code. It's especially useful if you want
 
 测试图片链接
 
-![[./images/Pasted image 20221112130510.png]]
+![](https://raw.githubusercontent.com/zhouxinnana/dev/main/images/Pasted%20image%2020221112130510.png)
